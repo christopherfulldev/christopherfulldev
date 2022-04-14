@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Christopher Pinto</h1>
-<h3 align="center">A passionate for JavaScript. I develop "MERN" and REACT applications.</h3>
+<h3 align="center">A passionate for JavaScript. I develop "MERN" and "Micro Services" applications.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=christopherfulldev&label=Profile%20views&color=0e75b6&style=flat" alt="christopherfulldev" /> </p>
 
